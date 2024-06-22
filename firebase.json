@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "fbp",
     "public": "dist",
     "ignore": [
       "firebase.json",
